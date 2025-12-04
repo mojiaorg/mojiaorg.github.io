@@ -1,0 +1,8 @@
+baseURL = "http://localhost:1313/"
+languageCode = "zh-CN"
+title = "我的博客"
+theme = "PaperMod"
+
+[params]
+  author = "Yarden Zhang"
+  description = "A personal blog"
