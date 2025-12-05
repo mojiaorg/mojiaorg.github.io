@@ -1,4 +1,4 @@
-name: Deploy Hugo site to mojiaorg.github.io
+name: Deploy Hugo site to mo.github.io
 
 on:
   push:
