@@ -1,8 +1,18 @@
-baseURL = "https://mojiaorg.github.io/"
-languageCode = "zh-CN"
-title = "我的博客"
-theme = "PaperMod"
+# 删除旧文件
+Remove-Item hugo.toml -ErrorAction SilentlyContinue
 
-[params]
-  author = "Yarden Zhang"
-  description = "A personal blog"
+# 用 .NET 写入纯 UTF-8 无 BOM、无可视不可见字符的配置
+$cleanContent = @(
+    'baseURL = "https://mojiaorg.github.io/"',
+    'languageCode = "zh-CN"',
+    'title = "我的博客"',
+    'theme = "PaperMod"',
+    '',
+    '[params]',
+    '  author = "Yarden Zhang"',
+    '  description = "A personal blog"'
+)
+
+[System.IO.File]::WriteAllLines("$PWD/hugo.toml", $cleanContent, [System.Text.UTF8Encoding]::new($false))
+
+Write-Host "✅ hugo.toml recreated with clean UTF-8 (no BOM, no hidden chars)"
