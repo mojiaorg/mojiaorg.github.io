@@ -7,11 +7,16 @@ on:
 
 jobs:
   deploy:
+    # 👇 关键：添加 environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pages: write      # 👈 关键：授予 Pages 写权限
-      id-token: write   # 👈 用于身份验证
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout
@@ -38,4 +43,5 @@ jobs:
           path: ./public
 
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
