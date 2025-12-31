@@ -38,14 +38,14 @@ theme = "PaperMod"
     Content = "Welcome to my blog"
 
   [[params.socialIcons]]
-    name = "x"
-    url = "https://x.com/"
+    name = "email"
+    url = "151858587@qq.com"
   [[params.socialIcons]]
-    name = "stackoverflow"
-    url = "https://stackoverflow.com"
+    name = "weibo"
+    url = "https://weibo.com/u/2034225207"
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/"
+    name = "rss"
+    url = "/index.xml"
 
   [params.fuseOpts]
     isCaseSensitive = false
@@ -59,20 +59,20 @@ theme = "PaperMod"
 
 [[menu.main]]
   identifier = "categories"
-  name = "categories"
+  name = "Categories"
   url = "/categories/"
   weight = 10
 
 [[menu.main]]
   identifier = "tags"
-  name = "tags"
+  name = "Tags"
   url = "/tags/"
   weight = 20
 
 [[menu.main]]
-  identifier = "mojia"
-  name = "mojia.org"
-  url = "https://mojia.org"
+  identifier = "about"
+  name = "About"
+  url = "/about/"
   weight = 30
 
 pygmentsUseClasses = true
