@@ -39,7 +39,7 @@ theme = "PaperMod"
 
   [[params.socialIcons]]
     name = "email"
-    url = "151858587@qq.com"
+    url = "mailto:151858587@qq.com"
   [[params.socialIcons]]
     name = "weibo"
     url = "https://weibo.com/u/2034225207"
