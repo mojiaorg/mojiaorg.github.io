@@ -68,8 +68,12 @@ main {
 
 /* 限制代码块和pre内联样式 */
 .post-body pre code,
-pre {
+pre,
+code {
     max-width: 100% !important;
     overflow-x: auto !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    white-space: pre-wrap !important;
 }
 </style>
