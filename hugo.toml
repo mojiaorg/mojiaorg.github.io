@@ -8,6 +8,8 @@ subtitle = "一个人的独白"
 description = "一个人的独白"
 enableGiscus = true
 disableDarkmode = false
+author = "墨家"
+email = "mojia@mojia.org"
 
 [markup]
   [markup.highlight]
