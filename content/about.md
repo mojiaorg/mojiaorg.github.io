@@ -1,6 +1,6 @@
 ---
 title: "关于我"
-date: 2025-12-31T00:00:00+08:00
+date: 1988-05-17T00:00:00+08:00
 layout: "about"
 commentable: false
 ---
