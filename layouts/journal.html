@@ -18,11 +18,9 @@
         {{ range .Paginator.Pages }}
         <div class="post-list-item">
             <div class="post-item-wrapper">
-                <div class="post-item-meta">
-                    {{ .Date.Format "2006-01-02" }}
-                </div>
                 <a href="{{ .Permalink }}" class="a-wrap">
                 <p class="post-title">{{ .Title }}</p>
+                <p class="post-item-meta">{{ .Date.Format "2006-01-02" }}</p>
                 <p class="post-summary">{{ .Description }}</p>
                 </a>
             </div>
