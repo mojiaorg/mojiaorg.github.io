@@ -10,15 +10,15 @@
                             <div class="post-item-title">
                                 {{.Title}}
                             </div>
+                            <div class="post-item-meta">
+                                {{ .Date.Format "2006-01-02" }}
+                            </div>
                             <div class="post-item-summary">
                                 {{ if .Description }}
                                     {{ .Description }}
                                 {{ else }}
                                     {{ .Summary }}
                                 {{ end }}
-                            </div>
-                            <div class="post-item-meta">
-                                <span style="color:red;">{{ .Date.Format "2006-01-02" }}</span>
                             </div>
                         </div>
                         {{ $featured_image := .Params.featured_image }}
