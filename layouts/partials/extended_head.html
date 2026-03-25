@@ -3,20 +3,17 @@ If you want to include any custom html just before </Head>, put it in /layouts/p
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/extended_head.html doesn't exist.
 -->
 <style>
-/* nav-title 字体设置 */
+/* Logo 图片样式 */
 .nav-title {
-    font-family: "Droid Serif", Georgia, serif !important;
-    font-weight: normal !important;
+    display: none !important;
 }
 
 .single-column-header-title {
-    font-family: "Droid Serif", Georgia, serif !important;
-    font-weight: normal !important;
+    display: none !important;
 }
 
 .navbar-brand {
-    font-family: "Droid Serif", Georgia, serif !important;
-    font-weight: normal !important;
+    font-weight: bold !important;
 }
 
 /* 左侧导航栏下对齐 */
@@ -55,6 +52,11 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
     max-width: none !important;
     display: block !important;
     margin-left: auto !important;
+    margin-right: 0 !important;
+}
+
+.nav-head {
+    text-align: right !important;
 }
 
 .nav-subtitle {
