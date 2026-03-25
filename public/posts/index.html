@@ -63,11 +63,13 @@
 <style>
  
 .nav-title {
-    font-weight: bold !important;
-    font-size: 37px !important;
+    display: none !important;
 }
 
-.single-column-header-title,
+.single-column-header-title {
+    display: none !important;
+}
+
 .navbar-brand {
     font-weight: bold !important;
 }
@@ -270,7 +272,7 @@ body, .post-body, .article-content, .entry-content, main {
             </i>
         </button>
         <a id="navTitle" class="navbar-brand" href="https://www.mojia.org/">
-            墨家
+            <img class="logo-img" src="/logo.png" alt="墨家">
         </a>
         
         <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
@@ -284,7 +286,7 @@ body, .post-body, .article-content, .entry-content, main {
 <div class="single-column-header-container" id="pageHead"
      v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
     <a href="https://www.mojia.org/">
-        <div class="single-column-header-title">墨家</div>
+        <img class="logo-header-img" src="/logo.png" alt="墨家">
         
         <div class="single-column-header-subtitle">一个人的独白</div>
         
@@ -499,9 +501,7 @@ body, .post-body, .article-content, .entry-content, main {
     
     <a class="a-block nav-head false" href="https://www.mojia.org/">
     
-        <div class="nav-title">
-            墨家
-        </div>
+        <img class="logo-sidebar" src="/logo.png" alt="墨家">
         
         <div class="nav-subtitle">
             一个人的独白
