@@ -269,28 +269,39 @@ body, .post-body, .article-content, .entry-content, main {
 }
 
  
-.vcards .vcard {
+#waline .vcards .vcard {
     padding: 15px 0 !important;
 }
 
-.vcards .vcard .vavatar {
+#waline .vcards .vcard .vavatar img,
+#waline .vcards .vcard .vavatar {
     width: 40px !important;
     height: 40px !important;
+    max-width: 40px !important;
+    max-height: 40px !important;
     border-radius: 50% !important;
-    margin-right: 10px !important;
+    object-fit: cover !important;
 }
 
-.vcards .vcard .vcontent {
+#waline .vcards .vcard .vcontent {
     padding-top: 5px !important;
 }
 
-.vcards .vcard .vheader {
+#waline .vcards .vcard .vheader {
     margin-bottom: 5px !important;
 }
 
-.vcards .vcard .vnick {
+#waline .vcards .vcard .vnick {
     font-size: 14px !important;
     font-weight: normal !important;
+}
+
+#waline .vcards .vcard img {
+    width: 40px !important;
+    height: 40px !important;
+    max-width: 40px !important;
+    max-height: 40px !important;
+    border-radius: 50% !important;
 }
 </style>
 
