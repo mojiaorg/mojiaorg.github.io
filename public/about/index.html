@@ -797,26 +797,69 @@ body, .post-body, .article-content, .entry-content, main {
             <div class="post-comment-wrapper">
                 
 
+<div id="waline" class="waline-container"></div>
 
 
+<link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/waline.css" />
 
 
-
-
-
-<div id="waline"></div>
 <script type="module">
     import { init } from 'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/waline.js';
 
     init({
         el: '#waline',
-        serverURL: 'https:\/\/com.mojia.org',
+        
+        serverURL: 'https:\/\/www.mojia.org',
+        
+        
+        lang: 'zh-CN',
+        
+        
+        pageview: true,              
+        comment: true,               
+        
+        
+        requiredMeta: ['nick', 'mail'], 
+        
+        
+        emoji: [
+            'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/emojis/weibo',
+            'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/emojis/bilibili'
+        ],
+        
+        
+        search: false, 
+
+        
+        
+
+        
+        dark: 'html[data-theme="dark"]', 
+        
+        
+        path: window.location.pathname, 
+        title: document.title,
     });
 </script>
 
 
-
-
+<style>
+    .waline-container {
+        max-width: 100%;  
+        margin-top: 2rem;
+        padding: 0 10px;
+    }
+    
+     
+    @media (max-width: 768px) {
+        .waline-container {
+            padding: 0 5px;
+        }
+    }
+    
+     
+     
+</style>
 
             </div>
         </div>
