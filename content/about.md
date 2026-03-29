@@ -5,7 +5,7 @@ layout: "about"
 commentable: false
 ---
 
-你好！我是 **墨家**，这是我的个人博客。
+你好！我是 **winegrower**，这是我的个人博客。
 
 ## 🧑‍💻 技术栈
 - 编程语言：Python, JavaScript
@@ -13,8 +13,8 @@ commentable: false
 - 兴趣：开源、写作、自动化
 
 ## 📫 联系方式
-- 邮箱：151858587@qq.com
-- GitHub：[@mojiaorg](https://github.com/mojiaorg)
+- 邮箱：wineshe@qq.com
+- GitHub：[@mojiaorg](https://wineshe.github.io)
 
 > “一个人的独白，也是与世界的对话。”
 
