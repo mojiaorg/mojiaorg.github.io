@@ -1,18 +1,18 @@
-baseURL = "https://wineshe.com/"
+baseURL = "https://www.mojia.org/"
 languageCode = "zh-CN"
-title = "酒社诗坛"
+title = "墨家Mojia"
 theme = "hugo-theme-diary-main"
 
 [author]
-name = "wineshe"
-email = "wineshe@qq.com"
+name = "mojia"
+email = "151858587@qq.com"
 
 [params]
-subtitle = "酒社我为敌，诗坛子有功"
-description = "酒社我为敌，诗坛子有功"
+subtitle = "一个人的独白"
+description = "一个人的独白"
 enableGiscus = false
 disableDarkmode = false
-walineServer = "https://com.wineshe.com"
+walineServer = "https://com.mojia.org"
 
 [markup]
   [markup.highlight]
