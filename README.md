@@ -1,2 +1,2 @@
-# wineshe.github.io
-酒社诗坛
+# mojiaorg.github.io
+墨家mojia
