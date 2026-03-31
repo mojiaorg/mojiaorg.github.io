@@ -2,31 +2,262 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 酒社诗坛</title>
-    <link>https://wineshe.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on 酒社诗坛</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wineshe.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>知识积累</title>
-      <link>https://wineshe.com/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://wineshe.com/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</guid>
+      <title>日记</title>
+      <link>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>网络娱乐</title>
-      <link>https://wineshe.com/categories/%E7%BD%91%E7%BB%9C%E5%A8%B1%E4%B9%90/</link>
+      <link>http://localhost:1313/categories/%E7%BD%91%E7%BB%9C%E5%A8%B1%E4%B9%90/</link>
       <pubDate>Wed, 25 Mar 2026 11:02:00 +0800</pubDate>
-      <guid>https://wineshe.com/categories/%E7%BD%91%E7%BB%9C%E5%A8%B1%E4%B9%90/</guid>
+      <guid>http://localhost:1313/categories/%E7%BD%91%E7%BB%9C%E5%A8%B1%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>博客</title>
+      <link>http://localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>日常生活</title>
+      <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>知识积累</title>
+      <link>http://localhost:1313/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/categories/ai/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>旅行</title>
+      <link>http://localhost:1313/categories/%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%97%85%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>随笔</title>
+      <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>思考</title>
+      <link>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生活</title>
+      <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自语自省</title>
+      <link>http://localhost:1313/categories/%E8%87%AA%E8%AF%AD%E8%87%AA%E7%9C%81/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E8%87%AA%E8%AF%AD%E8%87%AA%E7%9C%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>爱情点滴</title>
+      <link>http://localhost:1313/categories/%E7%88%B1%E6%83%85%E7%82%B9%E6%BB%B4/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%88%B1%E6%83%85%E7%82%B9%E6%BB%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>无心记录</title>
+      <link>http://localhost:1313/categories/%E6%97%A0%E5%BF%83%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%97%A0%E5%BF%83%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>天津出差深夜</title>
+      <link>http://localhost:1313/categories/%E5%A4%A9%E6%B4%A5%E5%87%BA%E5%B7%AE%E6%B7%B1%E5%A4%9C/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E5%A4%A9%E6%B4%A5%E5%87%BA%E5%B7%AE%E6%B7%B1%E5%A4%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>周六上午</title>
+      <link>http://localhost:1313/categories/%E5%91%A8%E5%85%AD%E4%B8%8A%E5%8D%88/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E5%91%A8%E5%85%AD%E4%B8%8A%E5%8D%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鏃ヨ</title>
+      <link>http://localhost:1313/categories/%E9%8F%83%E3%83%A8/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E9%8F%83%E3%83%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>技术</title>
+      <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>随想</title>
+      <link>http://localhost:1313/categories/%E9%9A%8F%E6%83%B3/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E9%9A%8F%E6%83%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>技术记录</title>
+      <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>装修记录</title>
+      <link>http://localhost:1313/categories/%E8%A3%85%E4%BF%AE%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Sat, 07 May 2022 07:03:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E8%A3%85%E4%BF%AE%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美术摄影</title>
+      <link>http://localhost:1313/categories/%E7%BE%8E%E6%9C%AF%E6%91%84%E5%BD%B1/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%BE%8E%E6%9C%AF%E6%91%84%E5%BD%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>随感</title>
+      <link>http://localhost:1313/categories/%E9%9A%8F%E6%84%9F/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E9%9A%8F%E6%84%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>葡萄酒</title>
+      <link>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E9%85%92/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E9%85%92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>总结</title>
+      <link>http://localhost:1313/categories/%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>阅读思考</title>
+      <link>http://localhost:1313/categories/%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>日志</title>
+      <link>http://localhost:1313/categories/%E6%97%A5%E5%BF%97/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E6%97%A5%E5%BF%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>工作学习</title>
+      <link>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>转载</title>
+      <link>http://localhost:1313/categories/%E8%BD%AC%E8%BD%BD/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E8%BD%AC%E8%BD%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thinking</title>
+      <link>http://localhost:1313/categories/thinking/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/thinking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鑷鑷渷</title>
+      <link>http://localhost:1313/categories/%E9%91%B7%E9%91%B7%E6%B8%B7/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E9%91%B7%E9%91%B7%E6%B8%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>月度小记</title>
+      <link>http://localhost:1313/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E8%AE%B0/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>月记</title>
+      <link>http://localhost:1313/categories/%E6%9C%88%E8%AE%B0/</link>
+      <pubDate>Sun, 31 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E6%9C%88%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>杂文随笔</title>
+      <link>http://localhost:1313/categories/%E6%9D%82%E6%96%87%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%9D%82%E6%96%87%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生活点滴</title>
+      <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4/</link>
+      <pubDate>Sat, 31 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>酒会活动</title>
-      <link>https://wineshe.com/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</link>
+      <link>http://localhost:1313/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</link>
       <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
-      <guid>https://wineshe.com/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</guid>
+      <guid>http://localhost:1313/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>缇庢湳鎽勫奖</title>
+      <link>http://localhost:1313/categories/%E7%BC%87%E5%BA%A2%E6%B9%B3%E9%8E%BD%E5%8B%AB%E5%A5%96/</link>
+      <pubDate>Tue, 08 May 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%BC%87%E5%BA%A2%E6%B9%B3%E9%8E%BD%E5%8B%AB%E5%A5%96/</guid>
       <description></description>
     </item>
   </channel>
