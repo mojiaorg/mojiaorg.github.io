@@ -79,6 +79,13 @@
       <description></description>
     </item>
     <item>
+      <title>美食</title>
+      <link>http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>自语自省</title>
       <link>http://localhost:1313/categories/%E8%87%AA%E8%AF%AD%E8%87%AA%E7%9C%81/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
@@ -165,7 +172,7 @@
     <item>
       <title>葡萄酒</title>
       <link>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E9%85%92/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E9%85%92/</guid>
       <description></description>
     </item>
@@ -212,13 +219,6 @@
       <description></description>
     </item>
     <item>
-      <title>鑷鑷渷</title>
-      <link>http://localhost:1313/categories/%E9%91%B7%E9%91%B7%E6%B8%B7/</link>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E9%91%B7%E9%91%B7%E6%B8%B7/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>月度小记</title>
       <link>http://localhost:1313/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E8%AE%B0/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
@@ -247,17 +247,24 @@
       <description></description>
     </item>
     <item>
-      <title>葡萄种植</title>
-      <link>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E7%A7%8D%E6%A4%8D/</link>
-      <pubDate>Thu, 04 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E7%A7%8D%E6%A4%8D/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>酒会活动</title>
       <link>http://localhost:1313/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</link>
       <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>葡萄种植</title>
+      <link>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E7%A7%8D%E6%A4%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E8%91%A1%E8%90%84%E7%A7%8D%E6%A4%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鑷鑷渷</title>
+      <link>http://localhost:1313/categories/%E9%91%B7%E9%91%B7%E6%B8%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E9%91%B7%E9%91%B7%E6%B8%B7/</guid>
       <description></description>
     </item>
   </channel>
