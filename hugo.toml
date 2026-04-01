@@ -50,11 +50,6 @@ walineServer = "https://com.mojia.org"
   weight = 1
 
 [[menu.main]]
-  url = "/search"
-  name = "搜索"
-  weight = 5
-
-[[menu.main]]
   url = "/about"
   name = "About"
   weight = 4
