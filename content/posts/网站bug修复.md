@@ -2,7 +2,7 @@
 title: "网站bug修复"
 date: 2018-12-09T00:00:00+08:00
 slug: "jiazhanbug-xiufu"
-categories: ["网络娱乐"]
+categories: ["阅读思考"]
 tags: ["网络"]
 ---
 

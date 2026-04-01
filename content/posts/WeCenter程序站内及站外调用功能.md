@@ -2,7 +2,7 @@
 title: "WeCenter程序站内及站外调用功能"
 date: 2021-08-19
 slug: "wecenter-neiwai-tiaoyong"
-categories: ["技术"]
+categories: ["认知拓界 "]
 tags: ["WeCenter", "WordPress", "Typecho", "站外调用"]
 ---
 
@@ -23,6 +23,8 @@ WeCenter可以实现一个很棒的知识社区，也是我目前最喜欢，最
 </script></p>
 </div>
 ```
+
+<!--more-->
 
 2.2 调用热门话题：
 ```html

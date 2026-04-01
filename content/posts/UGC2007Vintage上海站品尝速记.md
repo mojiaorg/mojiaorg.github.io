@@ -2,7 +2,7 @@
 title = "UGC2007Vintage上海站品尝速记"
 date = "2010-12-04"
 draft = "false"
-categories = ["知识积累"]
+categories = ["认知拓界 "]
 tags = ["知识积累", "葡萄酒知识"]
 +++
 

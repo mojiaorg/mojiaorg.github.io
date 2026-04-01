@@ -2,7 +2,7 @@
 title: "父亲三十 years"
 date: 2024-12-20
 slug: "父亲三十-years"
-categories: ["天津出差深夜"]
+categories: ["自语自省"]
 tags: ["随笔"]
 ---
 

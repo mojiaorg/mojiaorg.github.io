@@ -2,8 +2,8 @@
 title = "WSET Level 2 模拟试题"
 date = "2010-05-02"
 draft = "false"
-categories = ["知识积累"]
-tags = ["知识积累", "葡萄酒知识"]
+categories = ["认知拓界 "]
+tags = ["葡萄酒"]
 +++
 
 今天终于考完Level 2了，还好55%正确率就可以Pass，应该还好。虽然一星期前的mock test我没时间去，不过还是找老师要来了mock test的题目。要考Level 2的同道中人可以拿来练习一下。
@@ -15,7 +15,9 @@ INTERMEDIATE CERTIFICATE MULTIPLE-CHOICE QUESTIONS
  b) The addition of red wine.
  c) The skins of the grapes.
  d) Stainless steel tanks.
+
 <!--more-->
+
 2 Which is the correct sequence in making RED wine?
  a) Fermentation, crushing, pressing, maturation
  b) Crushing, fermentation, pressing, maturation

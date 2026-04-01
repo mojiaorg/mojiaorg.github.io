@@ -2,7 +2,7 @@
 title: "阿里云服务器ECS"
 date: 2018-05-15
 slug: "huan-ge-jiao-du-kan-ren-sheng"
-categories: ["网络娱乐"]
+categories: ["认知拓界"]
 tags: ["网络"]
 ---
 

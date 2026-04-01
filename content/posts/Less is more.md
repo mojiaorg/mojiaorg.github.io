@@ -2,8 +2,8 @@
 title: "Less is more"
 date: "2025-12-07"
 slug: "less-is-more"
-categories: []
-tags: []
+categories: ["心之所栖 "]
+tags: ["博客"，"Typecho"]
 ---
 
 折腾博客很久了，从新浪、人人网、QQ空间等博客平台，到后来的Wordpress及Typecho等独立博客程序，Hugo和Jekyll等静态博客。
@@ -15,6 +15,8 @@ tags: []
 **为什么如此喜欢这个博客主题：**
 
 **1. Less is more**
+
+<!--more-->
 
 折腾博客多年，到了这个年纪，反而回归极简主义。对于个人博客而言，文字与图片的记录才是核心。若专注于写作本身，一个干净、克制的极简博客，才最契合自己的性格与需求。
 

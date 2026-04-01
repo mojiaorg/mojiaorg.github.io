@@ -2,12 +2,8 @@
 title: "Openclaw发布测试"
 date: 2026-03-13
 slug: openclaw-fa-bu-ce-shi
-categories:
-  - "AI"
-tags:
-  - "Openclaw"
-  - "AI"
-  - "测试"
+categories: ["心之所栖 "]
+tags: ["AI", "生活", "Openclaw"]
 ---
 
 本文章为测试文章，是通过openclaw发布的，如果成功，这将是我用openclaw发布的第一篇文章。今天第一次尝试用Openclaw来写博客，感觉非常新奇。Openclaw是一个AI助手，可以通过对话的方式帮我完成各种任务，比如写文章、发邮件、管理文件等。

@@ -2,7 +2,7 @@
 title: "WeCenter二次开发：问题、文章和活动使用不一样的分类"
 date: "2023-06-03"
 slug: "wecenter-category-development"
-categories: ["技术"]
+categories: ["认知拓界 "]
 tags: ["WeCenter", "二次开发", "PHP", "开源系统"]
 ---
 
@@ -20,6 +20,8 @@ tags: ["WeCenter", "二次开发", "PHP", "开源系统"]
 - app/admin/category.php
 - app/admin/ajax.php
 - view/default/admin/category/list.tpl.htm
+
+<!--more-->
 
 首先，文件一需要获得分类列表。line37等修改为：(question 删除掉)
 

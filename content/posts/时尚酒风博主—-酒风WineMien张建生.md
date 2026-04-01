@@ -2,7 +2,7 @@
 title: "时尚酒风博主—-酒风WineMien张建生"
 date: 2016-03-31T00:00:00+08:00
 slug: "2016年3月小记"
-categories: ["月记"]
+categories: ["日常爱好"]
 tags: ["葡萄酒", "人物"]
 ---
 

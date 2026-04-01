@@ -2,8 +2,8 @@
 title: "Ai时代我们能做什么"
 date: "2025-12-06"
 slug: "ai-era-what-can-we-do"
-categories: []
-tags: []
+categories: ["认知拓界"]
+tags: ["AI"]
 ---
 
 虽然Ai已经推出很久了，但对于我而言，除了平时写一些"形式性"的总结汇报之外，没有太多的深入的使用体会。
