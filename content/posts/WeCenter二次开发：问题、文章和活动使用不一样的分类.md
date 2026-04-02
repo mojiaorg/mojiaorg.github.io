@@ -14,7 +14,7 @@ tags: ["WeCenter", "二次开发", "PHP", "开源系统"]
 
 ## 第一部分：后台-分类管理
 
-后台中 内容设置-》分类管理实现添加和修改分类的功能，修改功能不再改动，只改动添加功能。（即确定分类所属模块便不再修改。）
+后台中 内容设置-》分类管理实现添加和修改分类的功能,修改功能不再改动,只改动添加功能。（即确定分类所属模块便不再修改。）
 
 涉及文件：
 - app/admin/category.php
@@ -23,7 +23,7 @@ tags: ["WeCenter", "二次开发", "PHP", "开源系统"]
 
 <!--more-->
 
-首先，文件一需要获得分类列表。line37等修改为：(question 删除掉)
+首先,文件一需要获得分类列表。line37等修改为：(question 删除掉)
 
 ```php
 TPL::assign('list', json_decode($this->model('system')->build_category_json(''), true));
@@ -31,9 +31,9 @@ TPL::assign('category_option', $this->model('system')->build_category_html('', 0
 TPL::assign('target_category', $this->model('system')->build_category_html('', 0, null));
 ```
 
-然后列表展示在list.tpl.htm中，修改添加分类的表单，添加分类所属的模块展示和选择。为列表添加"所属模块"列。
+然后列表展示在list.tpl.htm中,修改添加分类的表单,添加分类所属的模块展示和选择。为列表添加"所属模块"列。
 
-文件三line 19左右，改为：
+文件三line 19左右,改为：
 
 ```php
 <th><?php _e('所属模块'); ?></th><!--添加了此行-->
@@ -49,7 +49,7 @@ TPL::assign('target_category', $this->model('system')->build_category_html('', 0
 <td> <a href="<?php echo $val['type']; ?>/category-<?php echo ($val['url_token']) ? $val['url_token'] : $val['id']; ?>"><?php echo $val['title']; ?></a> </td><!--此行被修改-->
 ```
 
-改完以后，发现新加列为输出变量，修改model/system.php中用到的方法fetch_category()、build_category_html()，在两方法里的两个数组中添加'type' => $val['type']这个成员，改成了：
+改完以后,发现新加列为输出变量,修改model/system.php中用到的方法fetch_category()、build_category_html(),在两方法里的两个数组中添加'type' => $val['type']这个成员,改成了：
 
 line 76
 
@@ -80,7 +80,7 @@ $data[] = array(
 );
 ```
 
-添加所属模块选择下拉框，大致在52行表单元素。调整了一下布局和添加了一个下拉框选择模块，修改之后表单代码：
+添加所属模块选择下拉框,大致在52行表单元素。调整了一下布局和添加了一个下拉框选择模块,修改之后表单代码：
 
 ```php
 <form id="add_category_form" action="admin/ajax/save_category/" method="post" onsubmit="return false">
@@ -126,7 +126,7 @@ $category_id = $this->model('category')->add_category($category_type, $_POST['ti
 
 ## 第二部分：列表-分类导航
 
-这一部分很简单，获得list，然后展示出来。
+这一部分很简单,获得list,然后展示出来。
 
 涉及文件：
 1. app/article/main.php
@@ -156,7 +156,7 @@ TPL::assign('content_nav_menu', $this->model('system')->fetch_category('question
 }
 ```
 
-新建 views/default/block/content_nac.tpl.htm，内容为：
+新建 views/default/block/content_nac.tpl.htm,内容为：
 
 ```php
 <?php if ($this->content_nav_menu) { ?>

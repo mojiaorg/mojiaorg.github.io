@@ -6,7 +6,7 @@ categories = ["知识积累"]
 tags = ["知识积累", "葡萄酒知识"]
 +++
 
-下文摘自ASC的高级销售经理、讲师：Andy，用百尝的点评而言是：值得搬个板凳学习的文章，我非常赞同，贴在此与大家分享！
+下文摘自ASC的高级销售经理、讲师：Andy,用百尝的点评而言是：值得搬个板凳学习的文章,我非常赞同,贴在此与大家分享！
 
 Frederic Engerer &ndash; The Engineer behind Chateau Latour
 
@@ -17,7 +17,7 @@ Graduated from the famous business school in Paris &ndash; Ecole des Hautes Etud
 
 <!--more-->
 
-There are no hard and fast rules set by Francois Pinault on how Engerer should shape his Latour. Instead there was total freedom in doing anything (and everything) that his billionaire boss has entrusted him. After following and observing what his winemaker, Christian Le Sommer has done for Latour, in 1999, he removed his winemaker along with his Maitre de Chai (cellar master)，Denis Malbec and turned the winemaking role to himself. When I asked him to comment about his former winemaker, he told me he acknowledged what Le Sommer had done for Latour. However, to bring Latour to another level, change is inevitable and the traditional-minded Le Sommer was just not the right person to carry out the task. The young team he has later assembled includes, oenologist, Frederic Ardouin (left in 2007), Maitre de Chai, Pierre-Henri Chabot, viticulture manager, Domingo Sanchez.
+There are no hard and fast rules set by Francois Pinault on how Engerer should shape his Latour. Instead there was total freedom in doing anything (and everything) that his billionaire boss has entrusted him. After following and observing what his winemaker, Christian Le Sommer has done for Latour, in 1999, he removed his winemaker along with his Maitre de Chai (cellar master),Denis Malbec and turned the winemaking role to himself. When I asked him to comment about his former winemaker, he told me he acknowledged what Le Sommer had done for Latour. However, to bring Latour to another level, change is inevitable and the traditional-minded Le Sommer was just not the right person to carry out the task. The young team he has later assembled includes, oenologist, Frederic Ardouin (left in 2007), Maitre de Chai, Pierre-Henri Chabot, viticulture manager, Domingo Sanchez.
 
 Of 78 hectares (193 acres) vineyards in Latour, LEnclos, the Grand Vin vineyard (traditionally, all the fruits goes into Chateau Latour) consists of 47 hectares (116 acres &ndash; same as Clos de Vougeot in size). LEnclos, where the vineyard surrounds the Chateau, has a historical track that was dated back to the mid- 1700s. LEnclos is elevated to a height of 15 meters, consists of gravels (pebbles) over clay and marl sub-soil. Like Burgundy, when the soil changed from marl to limestone, Pinot Noir will give way to Chardonnay. In this case of LEnclos, Merlot will takeover Cabernets when the gravel is less deep and the clay soil is more prominent. Since Engerer has taken over the winemaking responsibility, he has broken the golden rule of LEnclos of what always goes into Grand Vin. Over the years, Engerer, along with his co-workers echoes the work of Burgundy Cisterician Monks, analyzes the grape ripening behavior of each parcel, meticulously maps them and separates them from the previous larger blocks. Today, LEnclos is sub-divided into 38 parcels of various sizes, much like what the Burgundy did with their lieu-dit (plot) inside the grand cru vineyards.
 
