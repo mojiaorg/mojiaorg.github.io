@@ -2,7 +2,7 @@
 title: "WeCenter程序站内及站外调用功能"
 date: 2021-08-19
 slug: "wecenter-neiwai-tiaoyong"
-categories: ["认知拓界 "]
+categories: ["认知拓界"]
 tags: ["WeCenter", "WordPress", "Typecho", "站外调用"]
 ---
 

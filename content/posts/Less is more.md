@@ -2,7 +2,7 @@
 title: "Less is more"
 date: "2025-12-07"
 slug: "less-is-more"
-categories: ["心之所栖 "]
+categories: ["心之所栖"]
 tags: ["博客"，"Typecho"]
 ---
 

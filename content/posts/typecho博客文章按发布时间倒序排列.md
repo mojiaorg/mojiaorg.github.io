@@ -2,7 +2,7 @@
 title: "typecho博客文章按发布时间倒序排列"
 date: 2019-12-08
 slug: "typecho-boke-wenzhang-paifa"
-categories: ["心之所栖 "]
+categories: ["心之所栖"]
 tags: ["Typecho", "博客", "PHP", "教程"]
 ---
 

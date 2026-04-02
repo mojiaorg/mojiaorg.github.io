@@ -2,7 +2,7 @@
 title: "WeCenter二次开发：问题、文章和活动使用不一样的分类"
 date: "2023-06-03"
 slug: "wecenter-category-development"
-categories: ["认知拓界 "]
+categories: ["认知拓界"]
 tags: ["WeCenter", "二次开发", "PHP", "开源系统"]
 ---
 

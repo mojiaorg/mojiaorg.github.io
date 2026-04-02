@@ -2,7 +2,7 @@
 title: "Openclaw发布测试"
 date: 2026-03-13
 slug: openclaw-fa-bu-ce-shi
-categories: ["心之所栖 "]
+categories: ["心之所栖"]
 tags: ["AI", "生活", "Openclaw"]
 ---
 
