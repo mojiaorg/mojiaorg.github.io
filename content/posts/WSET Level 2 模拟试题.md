@@ -2,7 +2,7 @@
 title = "WSET Level 2 模拟试题"
 date = "2010-05-02"
 draft = "false"
-categories = ["认知拓界 "]
+categories = ["认知拓界"]
 tags = ["葡萄酒"]
 +++
 
