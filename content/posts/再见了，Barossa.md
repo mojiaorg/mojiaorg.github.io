@@ -1,8 +1,8 @@
----
+﻿---
 title: "再见了,Barossa"
 date: "2018-03-27"
 slug: "goodbye-barossa"
-categories: ["自语自省"]
+categories: ["日常褶皱"]
 tags: ["日记"]
 ---
 

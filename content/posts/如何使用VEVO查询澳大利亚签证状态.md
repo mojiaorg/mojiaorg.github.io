@@ -1,8 +1,8 @@
----
+﻿---
 title: "如何使用VEVO查询澳大利亚签证状态"
 date: 2018-02-03
 slug: "first-time-being-scolded"
-categories: ["自语自省"]
+categories: ["日常褶皱"]
 tags: ["随想", "澳大利亚", "签证"]
 ---
 
