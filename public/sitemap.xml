@@ -158,9 +158,6 @@
     <loc>https://www.mojia.org/tags/%E7%BE%8E%E9%A3%9F/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mojia.org/categories/%E6%97%A5%E5%B8%B8%E7%88%B1%E5%A5%BD/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mojia.org/posts/france-bordeaux/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -488,9 +485,6 @@
     <loc>https://www.mojia.org/posts/%E6%81%8B%E6%9B%B21990/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mojia.org/categories/%E8%87%AA%E8%AF%AD%E8%87%AA%E7%9C%81/</loc>
-    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mojia.org/tags/%E5%81%9C%E5%B7%A5/</loc>
     <lastmod>2022-05-07T07:03:00+08:00</lastmod>
   </url><url>
@@ -509,9 +503,6 @@
     <loc>https://www.mojia.org/posts/wangluo-shidai-de-yinsi/</loc>
     <lastmod>2022-05-04T17:06:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.mojia.org/categories/%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2022-05-04T17:06:00+08:00</lastmod>
-  </url><url>
     <loc>https://www.mojia.org/tags/%E9%9A%90%E7%A7%81/</loc>
     <lastmod>2022-05-04T17:06:00+08:00</lastmod>
   </url><url>
@@ -526,9 +517,6 @@
   </url><url>
     <loc>https://www.mojia.org/posts/beijing-maifang-ji-1/</loc>
     <lastmod>2022-03-22T08:18:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.mojia.org/categories/%E7%BE%8E%E6%9C%AF%E6%91%84%E5%BD%B1/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mojia.org/posts/428/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
@@ -803,6 +791,9 @@
     <loc>https://www.mojia.org/posts/%E6%89%8B%E7%BB%98/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.mojia.org/categories/%E7%BE%8E%E6%9C%AF%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.mojia.org/posts/jiazhanbug-xiufu/</loc>
     <lastmod>2018-12-09T00:00:00+08:00</lastmod>
   </url><url>
@@ -888,9 +879,6 @@
     <lastmod>2018-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mojia.org/posts/%E5%B9%B8%E7%A6%8F%E5%85%B6%E5%AE%9E%E5%BE%88%E7%AE%80%E5%8D%95/</loc>
-    <lastmod>2018-05-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.mojia.org/categories/%E8%BF%90%E5%8A%A8%E5%A8%B1%E4%B9%90/</loc>
     <lastmod>2018-05-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://www.mojia.org/posts/%E4%BB%A5%E5%8A%A8%E5%88%B6%E9%9D%99/</loc>
@@ -1353,6 +1341,9 @@
     <lastmod>2008-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mojia.org/posts/%E6%88%91%E4%B8%BA%E4%BD%95%E5%8F%AB%E5%BC%A0%E6%97%A0%E5%BF%8C/</loc>
+    <lastmod>2008-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/categories/%E8%87%AA%E8%AF%AD%E8%87%AA%E7%9C%81/</loc>
     <lastmod>2008-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mojia.org/tags/%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87/</loc>
