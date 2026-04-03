@@ -380,9 +380,6 @@
     <loc>https://www.mojia.org/posts/monday-noon/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mojia.org/categories/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mojia.org/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -631,6 +628,9 @@
   </url><url>
     <loc>https://www.mojia.org/tags/%E6%96%B0%E5%86%A0/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/categories/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mojia.org/posts/cost/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
