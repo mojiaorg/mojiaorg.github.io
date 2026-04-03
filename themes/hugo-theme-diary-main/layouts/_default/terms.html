@@ -13,7 +13,7 @@
     </div>
   </a>
   <div class="tags">
-    {{ range .Data.Terms }}
+    {{ range sort .Data.Terms "Count" "desc" }}
     <div class="tag">
       <a href="{{.Page.RelPermalink}}" class="btn btn-outline-secondary position-relative rounded-pill">
         {{.Page.Title}}
