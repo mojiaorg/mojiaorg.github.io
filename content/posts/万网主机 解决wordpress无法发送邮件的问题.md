@@ -1,8 +1,8 @@
----
+﻿---
 title: "万网主机 解决wordpress无法发送邮件的问题"
 date: 2015-07-31
 slug: "2015年7月小记"
-categories: ["日常生活"]
+categories: ["认知拓界"]
 tags: ["WordPress", "万网", "SMTP"]
 ---
 
