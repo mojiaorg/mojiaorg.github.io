@@ -25,9 +25,7 @@ walineServer = "https://com.mojia.org"
   tag = "tags"
   category = "categories"
 
-[outputs]
-  home = ["HTML", "JSON"]
-  section = ["HTML", "JSON"]
+
 
 [permalinks]
   posts = "/posts/:slug/"
