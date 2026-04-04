@@ -1,0 +1,14 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+<div class="post-list-container post-list-container-no-background">
+    <div style="padding: 20px;">
+        <div id="search"></div>
+    </div>
+</div>
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+{{ end }}

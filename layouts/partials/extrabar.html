@@ -1,0 +1,11 @@
+<div class="sidebar-container" id="sidebar">
+    {{ if not .Site.Params.disableSearch }}
+    <div class="sidebar-extrablock">
+        <div id="sidebar-search" class="icon-format">
+            <form id="searchform" action="/search">
+                <input type="text" name="q" placeholder="{{ i18n "search" | default "search" }}" />
+            </form>
+        </div>
+    </div>
+    {{ end }}
+</div>

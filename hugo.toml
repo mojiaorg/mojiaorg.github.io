@@ -53,3 +53,8 @@ walineServer = "https://com.mojia.org"
   url = "/about"
   name = "About"
   weight = 4
+
+[[menu.main]]
+  url = "/search"
+  name = "🔍"
+  weight = 5

@@ -310,7 +310,6 @@ body, .post-body, .article-content, .entry-content, main {
         <div class="drawer-menu">
             
             
-            
                 
                 
                 
@@ -350,6 +349,16 @@ body, .post-body, .article-content, .entry-content, main {
                 
                 <a class="a-block drawer-menu-item false" href="/about">
                     About
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/search">
+                    🔍
                 </a>
                 
             
@@ -413,14 +422,14 @@ body, .post-body, .article-content, .entry-content, main {
     <div class="tag">
       <a href="/categories/%E6%97%A5%E5%B8%B8%E8%A4%B6%E7%9A%B1/" class="btn btn-outline-secondary position-relative rounded-pill">
         日常褶皱
-        <span class="badge">(157)</span>
+        <span class="badge">(154)</span>
       </a>
     </div>
     
     <div class="tag">
       <a href="/categories/%E5%BF%83%E4%B9%8B%E6%89%80%E6%A0%96/" class="btn btn-outline-secondary position-relative rounded-pill">
         心之所栖
-        <span class="badge">(37)</span>
+        <span class="badge">(39)</span>
       </a>
     </div>
     
@@ -434,7 +443,7 @@ body, .post-body, .article-content, .entry-content, main {
     <div class="tag">
       <a href="/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/" class="btn btn-outline-secondary position-relative rounded-pill">
         知识积累
-        <span class="badge">(12)</span>
+        <span class="badge">(13)</span>
       </a>
     </div>
     
@@ -502,6 +511,16 @@ body, .post-body, .article-content, .entry-content, main {
             </a>
             
         
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/search">
+                🔍
+            </a>
+            
+        
     </div>
 
     
@@ -520,28 +539,16 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 
     </div>
     
-</div><div id="extraContainer" class="extra-container">
-    <div class="toc-wrapper">
-        
-
-        
+</div><div class="sidebar-container" id="sidebar">
+    
+    <div class="sidebar-extrablock">
+        <div id="sidebar-search" class="icon-format">
+            <form id="searchform" action="/search">
+                <input type="text" name="q" placeholder="search" />
+            </form>
+        </div>
     </div>
-    <div class="pagination">
-        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top"
-            :class="{ invisible: scrollY == 0 }">
-            <i class="material-icons pagination-action-icon">
-                keyboard_arrow_up
-            </i>
-        </a>
-        
-        <a type="button" class="pagination-action" id="darkModeToggleButton">
-            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
-                dark_mode
-            </span>
-        </a>
-        
-        
-    </div>
+    
 </div>
 
 <div id="single-column-footer">

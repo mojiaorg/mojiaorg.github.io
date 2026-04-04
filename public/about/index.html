@@ -312,7 +312,6 @@ body, .post-body, .article-content, .entry-content, main {
         <div class="drawer-menu">
             
             
-            
                 
                 
                 
@@ -352,6 +351,16 @@ body, .post-body, .article-content, .entry-content, main {
                 
                 <a class="a-block drawer-menu-item active" href="/about">
                     About
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/search">
+                    🔍
                 </a>
                 
             
@@ -838,6 +847,16 @@ body, .post-body, .article-content, .entry-content, main {
             </a>
             
         
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/search">
+                🔍
+            </a>
+            
+        
     </div>
 
     
@@ -856,106 +875,16 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 
     </div>
     
-</div><div id="extraContainer" class="extra-container">
-    <div class="toc-wrapper">
-        
-
-        
-        <div class="toc">
-
-
-	<div class="toc-content">
-	
-		
-		
-		
-		<center>- CATALOG -</center>
-		
-		
-		<ul>
-			
-				
-				
-					
-						
-						
-						
-						
-							
-								
-									<ul>
-								
-							
-						
-						
-							<li>
-								<a href="#-%e6%8a%80%e6%9c%af%e6%a0%88" class="nav--技术栈">
-									🧑‍💻 技术栈
-								</a>
-							</li>
-						
-						
-					
-				
-			
-				
-				
-					
-						
-						
-						
-						
-						
-							<li>
-								<a href="#-%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f" class="nav--联系方式">
-									📫 联系方式
-								</a>
-							</li>
-						
-						
-					
-				
-			
-				
-				
-					
-						
-						
-						
-						
-						
-							<li>
-								<a href="#-%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c%e5%8e%86%e5%8f%b2" class="nav--域名注册历史">
-									📝 域名注册历史：
-								</a>
-							</li>
-						
-						
-					
-				
-			
-		</ul>
-	</div>
-
-</div>
-        
+</div><div class="sidebar-container" id="sidebar">
+    
+    <div class="sidebar-extrablock">
+        <div id="sidebar-search" class="icon-format">
+            <form id="searchform" action="/search">
+                <input type="text" name="q" placeholder="search" />
+            </form>
+        </div>
     </div>
-    <div class="pagination">
-        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top"
-            :class="{ invisible: scrollY == 0 }">
-            <i class="material-icons pagination-action-icon">
-                keyboard_arrow_up
-            </i>
-        </a>
-        
-        <a type="button" class="pagination-action" id="darkModeToggleButton">
-            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
-                dark_mode
-            </span>
-        </a>
-        
-        
-    </div>
+    
 </div>
 
 <div id="single-column-footer">
