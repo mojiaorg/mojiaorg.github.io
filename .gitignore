@@ -1,5 +1,2 @@
-public/ 
-"public/" 
-".gitattributes"   # 可选，但建议保留 .gitattributes
-"public/" 
-".gitattributes"   # 可选，但建议保留 .gitattributes
+public/
+.gitattributes
