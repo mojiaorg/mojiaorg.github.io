@@ -1,4 +1,4 @@
-﻿---
+---
 title: "万网主机 解决wordpress无法发送邮件的问题"
 date: 2015-07-31
 slug: "2015年7月小记"
@@ -14,6 +14,7 @@ tags: ["WordPress", "万网", "SMTP"]
 
 ```
 $this->smtp_conn = @stream_socket_client(
+<!--more-->
 $host . ":" . $port,
 $errno,
 $errstr,
