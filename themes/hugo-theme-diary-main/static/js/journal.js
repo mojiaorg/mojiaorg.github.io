@@ -233,12 +233,14 @@ var toggleDarkMode = function (saveCookie) {
   if (isDarkMode == true) {
     if (saveCookie !== false) document.cookie = "night=1;path=/";
     document.body.classList.add("night");
+    document.documentElement.dataset.theme = "dark";
     icon.innerText = "light_mode";
     icon2.innerText = "light_mode";
     setGiscusTheme("dark");
   } else {
     if (saveCookie !== false) document.cookie = "night=0;path=/";
     document.body.classList.remove("night");
+    delete document.documentElement.dataset.theme;
     icon.innerText = "dark_mode";
     icon2.innerText = "dark_mode";
     setGiscusTheme("light");
