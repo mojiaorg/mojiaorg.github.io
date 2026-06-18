@@ -8,17 +8,19 @@ commentable: false
 你好！我是 **墨家**，这是我的个人博客。
 
 ## 🧑‍💻 技术栈
-- 编程语言：Python, JavaScript
-- 工具：Hugo, Git, VS Code
-- 兴趣：开源、写作、自动化
+- 语言：中文, 英语
+- 工具：Cluade Code, Hermes Agent, Huawei
+- 兴趣：园艺、酒饮、历史、写作……
 
 ## 📫 联系方式
-- 邮箱：wineshe@qq.com
-- GitHub：[@mojiaorg](https://github.com/mojiaorg)
+- 邮箱：151858587@qq.com
+- 抖音：[@墨家]
+- 小红书：[@墨家](https://www.xiaohongshu.com/user/profile/681a8f89000000000601ed31)
+- 微信公众号：[@墨家]
 
 > “一个人的独白，也是与世界的对话。”
 
-## 📝 域名注册历史：
+## 📝 域名历史
 
 | Old Hoster                | New Hoster             | Month / Year           | Zone Date   | Transaction |
 |---------------------------|------------------------|------------------------|-------------|-------------|
